@@ -1,0 +1,3 @@
+[submodule "elm/commonSrc"]
+	path = elm/commonSrc
+	url = https://github.com/equinor/elm
